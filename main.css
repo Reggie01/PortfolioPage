@@ -305,7 +305,6 @@ a {
 
 .card-image {
   position: relative;
-  width: 150px;
   height: 150px;
   margin: auto;
 }
@@ -315,7 +314,6 @@ a {
 }
 
 .card-image img {
-  width: 150px;
   height: 150px;
   margin: auto;
 }
@@ -323,7 +321,6 @@ a {
 .card-title-container {
   padding: 24px 16px;
   margin: 0;
-  /* height: 72px; */
 }
 
 .card-title {
