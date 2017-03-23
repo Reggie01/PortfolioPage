@@ -1,7 +1,7 @@
 ﻿#Readme
 
 This is FreeCodeCamp front end development project "[personal portfolio webpage](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)". 
-You can view the project on [codepen](http://codepen.io/Reggie01/full/qdzZxb/).
+You can view the [portfolio webpage](https://reggie01.github.io/PortfolioPage/) on github or [codepen](http://codepen.io/Reggie01/full/qdzZxb/).
 
 ## User Stories
 * I can access all of the portfolio webpage's content just by scrolling.
